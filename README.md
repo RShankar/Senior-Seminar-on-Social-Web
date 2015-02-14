@@ -7,12 +7,12 @@ Topics may come from the following: Twitter, Facebook, LinkedIn, Google+, Github
 Actual topic and student list will be posted soon. 
 
 Schdule:
-2/6/15 - Twitter
-2/13/15 - Paypal
-2/20/15 - Github
-2/27/15 - Amazon Cloud
-3/13/15 - Amazon Retail
-3/20/15 - NOAA
-3/27/15 - NetFlix
-4/3/15 - LinkedIn
-4/10/15 - Facebook
+2/6/15 - Twitter; 
+2/13/15 - Paypal; 
+2/20/15 - Github; 
+2/27/15 - Amazon Cloud; 
+3/13/15 - Amazon Retail; 
+3/20/15 - NOAA; 
+3/27/15 - NetFlix; 
+4/3/15 - LinkedIn; and
+4/10/15 - Facebook.
