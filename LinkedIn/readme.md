@@ -5,3 +5,4 @@ Greg: I am a senior and graduating in the summer. My major is Computer Science.
 
 David: I'm a Senior with only two semesters left. My major is Computer Science and hopefully I can find an internship before graduation. 
 
+VIDEO OF PRESENTATION: https://www.youtube.com/watch?v=XDIS0VUZWs4&feature=em-share_video_user
